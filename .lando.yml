@@ -1,0 +1,4 @@
+name: lb2
+recipe: drupal8
+config:
+  webroot: web
